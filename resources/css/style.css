@@ -1,0 +1,386 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  height: 646px;
+  position: relative;
+}
+.homepage2 {
+  position: absolute;
+  inset: 0;
+}
+.bg {
+  width: 1273px;
+  height: 646px;
+  position: absolute;
+  left: 2px;
+  top: 0px;
+  overflow: visible;
+}
+.sidebar {
+  width: 64px;
+  height: 309px;
+  position: static;
+}
+.group-12 {
+  width: 64px;
+  height: 309px;
+  position: static;
+}
+.rectangle-1 {
+  background: #ffffff;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 64px;
+  height: 300px;
+  position: absolute;
+  left: 16px;
+  top: 106px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.desserts {
+  color: #5a4d4d;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  position: absolute;
+  left: 27px;
+  top: 361.5px;
+  width: 44.17px;
+  height: 28.72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.snacks {
+  color: #5a4d4d;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  position: absolute;
+  left: 30px;
+  top: 300px;
+  width: 41.46px;
+  height: 28.72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.drinks {
+  color: #5a4d4d;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  position: absolute;
+  left: 32px;
+  top: 240.5px;
+  width: 37.86px;
+  height: 28.72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.foods {
+  color: #5a4d4d;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  position: absolute;
+  left: 32.5px;
+  top: 176px;
+  width: 30.65px;
+  height: 28.72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.soft-drink-icon-black-sign-with-editable-vector-35233323-removebg-preview-1 {
+  height: 30px;
+  position: absolute;
+  right: 1161px;
+  left: 64px;
+  top: 215px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+._1976807-200-1 {
+  width: 32.45px;
+  height: 35.65px;
+  position: absolute;
+  left: 33px;
+  top: 274px;
+  object-fit: cover;
+}
+._4421199-1 {
+  width: 29.75px;
+  height: 31.69px;
+  position: absolute;
+  left: 33px;
+  top: 335px;
+  object-fit: cover;
+}
+._2771401-2 {
+  border-radius: 5px;
+  width: 30.65px;
+  height: 32.68px;
+  position: absolute;
+  left: 32px;
+  top: 150px;
+  object-fit: cover;
+}
+.sidebar2 {
+  width: 46px;
+  height: 16px;
+  position: static;
+}
+.menu {
+  color: #ad343e;
+  text-align: center;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 24px;
+  top: 120px;
+  width: 46px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-18 {
+  width: 1115.84px;
+  height: 97px;
+  position: static;
+}
+.searchbar {
+  width: 1115.84px;
+  height: 97px;
+  position: static;
+}
+.group-11 {
+  width: 1115.84px;
+  height: 97px;
+  position: static;
+}
+.search-bar {
+  width: 1115.84px;
+  height: 97px;
+  position: static;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-radius: 9.61px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 1097.35px;
+  height: 59px;
+  position: absolute;
+  left: 102.49px;
+  top: 20px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.lutong-pinoy {
+  color: #605f5f;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 173px;
+  top: 30px;
+  width: 158.24px;
+  height: 17.39px;
+}
+.authentic-filipino-flavors {
+  color: #787777;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  position: absolute;
+  left: 174px;
+  top: 51.5px;
+  width: 182.65px;
+  height: 18.7px;
+}
+.line-1 {
+  margin-top: -1.11px;
+  border-style: solid;
+  border-color: #979090;
+  border-width: 1.11px 0 0 0;
+  width: 29.8px;
+  height: 0px;
+  position: absolute;
+  left: 636.89px;
+  top: 35px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.search-for-food {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  position: absolute;
+  left: 653px;
+  top: 43px;
+  width: 97.61px;
+  height: 15.19px;
+}
+.log-in {
+  color: #787777;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  position: absolute;
+  left: 1128px;
+  top: 45px;
+  width: 42px;
+  height: 10.47px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.shopping-cart-icon-on-transparent-background-free-png-removebg-preview-3 {
+  width: 25.14px;
+  height: 14.02px;
+  position: absolute;
+  left: 1007.36px;
+  top: 50.2px;
+}
+.glass-with-juice-icon-in-black-and-white-color-drink-icon-with-stick-lemon-and-ice-cubes-vector-removebg-preview-2 {
+  width: 37.19px;
+  height: 47.92px;
+  position: absolute;
+  left: 86px;
+  top: 56.05px;
+}
+.p-75 {
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14.789072036743164px;
+  font-weight: 600;
+  position: absolute;
+  left: 229.45px;
+  top: 99.87px;
+  width: 45.11px;
+  height: 21.04px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.p-752 {
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14.789072036743164px;
+  font-weight: 600;
+  position: absolute;
+  left: 346.29px;
+  top: 103.96px;
+  width: 45.11px;
+  height: 21.04px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.p-753 {
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14.789072036743164px;
+  font-weight: 600;
+  position: absolute;
+  left: 281.22px;
+  top: 97.54px;
+  width: 45.11px;
+  height: 21.04px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mm-removebg-preview-5 {
+  width: 16px;
+  height: 15px;
+  position: absolute;
+  left: 611px;
+  top: 42px;
+  object-fit: cover;
+}
+.grey-user-icon-vector-42797469-removebg-preview-2 {
+  width: 19px;
+  height: 21px;
+  position: absolute;
+  left: 1105px;
+  top: 40px;
+  object-fit: cover;
+}
+._1000-f-244123975-jy-yze-6-k-28-s-bi-ed-1-g-15-iqw-proy-g-dnji-zj-removebg-preview-1 {
+  position: absolute;
+  right: 1103px;
+  left: 123px;
+  bottom: 576px;
+  top: 34px;
+  object-fit: cover;
+}
+.text {
+  position: absolute;
+  inset: 0;
+}
+.savor-the-taste-of-home-with {
+  color: #605f5f;
+  text-align: left;
+  font-family: "Kavoon-Regular";
+  font-size: 55px;
+  font-weight: 600;
+  position: absolute;
+  left: 485px;
+  top: 258px;
+  width: 414px;
+  height: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lutong-pinoy-s {
+  color: #f8c345;
+  text-align: left;
+  font-family: "Kavoon-Regular";
+  font-size: 55px;
+  font-weight: 600;
+  position: absolute;
+  left: 597px;
+  top: 340px;
+  width: 397px;
+  height: 95px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  -webkit-text-stroke: 1px #605f5f;
+}
+.discover-authentic-filipino-flavors-delivered-fresh-to-your-doorstep-prepared-with-love-and-the-freshest-ingredients {
+  color: #605f5f;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 459px;
+  top: 401px;
+  width: 525px;
+  height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -18,7 +18,6 @@ import UserLayout from '@/Layouts/UserLayout.vue';
                     <p class="mt-4 text-lg">
                         Discover Authentic Filipino Flavors, Delivered Fresh to Your Doorstep! Prepared with love and the freshest ingredients.
                     </p>
-                    <Link class="bg-orange-500 hover:bg-orange-600 rounded-md px-3 py-1">View Lutong Pino'y Foods</Link>
                 </div>
             </div>
         </div>
